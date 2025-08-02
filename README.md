@@ -1,2 +1,2 @@
 # PoliticalCompass
-Analysis and classification of Reddit posts on the bidimensional Political Compass scheme
+Analysis and classification of Reddit posts on the Political Compass axes
